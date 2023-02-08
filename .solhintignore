@@ -1,0 +1,4 @@
+node_modules
+
+contracts/TestingAndDeveloping/NftTest.sol
+contracts/TestingAndDeveloping/USD.sol
